@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nitesh varma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Nitesh Verma</h1>
+<h3 align="center">A passionate frontend developer with backend support from India</h3>
 
-- 🔭 I’m currently working on [Cinepolis India](https://www.cinepolisindia.com/)
+- 🔭 I’m currently working on [Outlook India](https://www.outlookindia.com)
 
-- 🌱 I’m currently learning **next js node js**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **vermaniteshroar@gmail.com**
 
